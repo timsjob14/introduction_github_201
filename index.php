@@ -1,7 +1,7 @@
 <html>
-    <head></head>
-    <body>
-        <h1>
+    <head>
+        <title>This Is The Day Song</title>
+    </head>
         <?php echo "HELLO WORLD"; ?> <br>
         <?php
             $variable1 =10;
